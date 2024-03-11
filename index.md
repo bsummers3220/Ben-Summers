@@ -2,8 +2,44 @@
 
 <style>
 body {
-    background-color: black;
-    color: white;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #ffa500;
+}
+
+a {
+    color: #00bfff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #ff4500;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+li::before {
+    content: "\2022";
+    color: #ff6347;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+
+.links-container {
+    margin-top: 20px;
 }
 </style>
 
