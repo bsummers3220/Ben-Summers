@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 # Welcome to Ben Summers's GitHub Page!
 
 ## About Me
@@ -7,10 +9,3 @@ Hello there! I'm Ben Summers a passionate software developer with a love for cre
 - [Resume](Benjamin Summers Resume.docx)
 - [Email Me!](mailto:BenSummers3018@gmail.com) 
 - [My GitHub Profile!](https://github.com/bsummers3220)
-
-## CSS Style
-```css
-/* Change text color to blue */
-body {
-    color: blue;
-}
