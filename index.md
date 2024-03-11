@@ -4,7 +4,7 @@
 Hello there! I'm Ben Summers a passionate software developer with a love for creating innovative solutions. I specialize in Back-End Development, and I'm constantly exploring new technologies to expand my skill set.
 
 ## Links
-- [Resume](Ben Summers Resume.docx)
+- [Resume](Benjamin Summers Resume.docx)
 
 ## CSS Style
 ```css
